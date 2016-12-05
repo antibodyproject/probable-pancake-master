@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antibody 2.CSharp", "Antibody 2.CSharp.csproj", "{AB086625-6166-43D5-775B-2A75F08A295D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Antibody 2.CSharp.Editor", "Antibody 2.CSharp.Editor.csproj", "{55E35078-AFCC-2454-2993-A53522A187B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB086625-6166-43D5-775B-2A75F08A295D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB086625-6166-43D5-775B-2A75F08A295D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB086625-6166-43D5-775B-2A75F08A295D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB086625-6166-43D5-775B-2A75F08A295D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E35078-AFCC-2454-2993-A53522A187B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E35078-AFCC-2454-2993-A53522A187B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E35078-AFCC-2454-2993-A53522A187B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E35078-AFCC-2454-2993-A53522A187B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
