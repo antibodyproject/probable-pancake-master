@@ -86,6 +86,7 @@
     <Compile Include="Assets\Scripts\Coulomb\ChargedParticle.cs" />
     <Compile Include="Assets\Scripts\Coulomb\CoulombManager.cs" />
     <Compile Include="Assets\Scripts\Coulomb\MovingChargedParticle.cs" />
+    <Compile Include="Assets\Scripts\PSO.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
     <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
