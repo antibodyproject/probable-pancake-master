@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\Coulomb\ChargedParticle.cs" />
      <Compile Include="Assets\Scripts\Coulomb\CoulombManager.cs" />
      <Compile Include="Assets\Scripts\Coulomb\MovingChargedParticle.cs" />
+     <Compile Include="Assets\Scripts\PSO.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_GazeTracker.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_LaserPointer.cs" />
      <Compile Include="Assets\SteamVR\Extras\SteamVR_Teleporter.cs" />
@@ -222,6 +223,7 @@
      <Compile Include="Assets\VRTK\Scripts\VRTK_TeleportDisableOnHeadsetCollision.cs" />
      <Compile Include="Assets\VRTK\Scripts\VRTK_TouchpadWalking.cs" />
      <Compile Include="Assets\VRTK\Scripts\VRTK_UIPointer.cs" />
+     <Compile Include="Assets\WaitPSO.cs" />
      <None Include="Assets\VRTK\Version.txt" />
      <None Include="Assets\SteamVR\Resources\SteamVR_Fade.shader" />
      <None Include="Assets\SteamVR\Resources\SteamVR_ClearAll.shader" />
